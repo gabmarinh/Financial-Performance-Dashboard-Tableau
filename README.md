@@ -17,7 +17,7 @@ Using **Tableau**, I developed an interactive dashboard that allows stakeholders
 ### Key Performance Indicators (KPIs)
 A snapshot of the primary metrics tracked in this analysis:
 
-![KPI Overview](KPIs.png)
+<img src="KPIs.png" width="100%">
 
 ---
 
@@ -36,26 +36,26 @@ The exam required a comprehensive analysis of the "Financial Sample" dataset to 
 **Task:** Analyze profitability by Country using a map visualization.
 * **Insight:** The map highlights key performing regions, allowing for quick identification of high-margin markets vs. loss-making territories.
 
-![Country Profitability Map](Country%20Profitability.png)
+<img src="Country Profitability.png" width="100%">
 
 ### 📈 2. Sales Evolution (Time Series)
 **Task:** Show the evolution of Sales over time.
 * **Approach:** I utilized a combination of line and bar charts to demonstrate both the yearly growth trajectory and seasonal monthly fluctuations.
 
-![Sales Over Time](Sales%20Over%20the%20Years%20and%20Months.png)
+<img src="Sales Over the Years and Months.png" width="100%">
 
 ### 📊 3. Product & Segment Performance
 **Task:** Visualize the sum of Profit and Sales by Product and Segment.
 * **Insight:** This comparison reveals which product lines drive the most revenue versus which ones are actually profitable after costs.
 
-![Product and Segment Analysis](Profit%20and%20Sales%20by%20Product%20and%20Segment.png)
+<img src="Profit and Sales by Product and Segment.png" width="100%">
 
 ---
 
 ## 3. 🚀 Key Visualization & Final Dashboard
 The final deliverable consolidates the most critical insights into a comprehensive view for executive reporting.
 
-![Key Visualization Dashboard](Key%20Visualization.png)
+<img src="Key Visualization.png" width="100%">
 
 ---
 
@@ -63,5 +63,7 @@ The final deliverable consolidates the most critical insights into a comprehensi
 * [📥 **Download Tableau Workbook (.twb)**](Individual%20Exam_Gabriel%20Marín%20Huerta.twb) - Requires Tableau Desktop to view interaction.
 * **Dataset:** `Financial Sample.csv` (Synthetic financial data).
 
+---
+*Verified as part of the KEDGE Business School International Summer School program.*
 ---
 *Verified as part of the KEDGE Business School International Summer School program.*
